@@ -53,7 +53,8 @@
      color: white;
 }
 .content{
-    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   -webkit-background-clip: text;
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   
+    -webkit-background-clip: text;
     color: transparent;
     position: absolute;
     top: 50%;
